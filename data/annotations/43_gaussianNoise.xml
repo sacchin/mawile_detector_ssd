@@ -1,0 +1,30 @@
+<annotation>
+<filename>43.jpg</filename>
+<source>
+    <database>original</database>
+    <annotation>original</annotation>
+    <image>XXX</image>
+    <flickrid>0</flickrid>
+</source>
+<owner>
+    <flickrid>0</flickrid>
+    <name>?</name>
+</owner>
+    <size>
+        <width> 900</width>
+        <height> 850</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>kucheat</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin> 319</xmin>
+            <ymin> 421</ymin>
+            <xmax> 685</xmax>
+            <ymax> 835</ymax>
+        </bndbox>
+    </object>
+</annotation>
